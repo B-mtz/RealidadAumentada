@@ -1,2 +1,1 @@
-# RealidadAumentada
-RA
+# equipo5.github.io
